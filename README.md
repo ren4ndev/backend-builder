@@ -10,7 +10,7 @@ Por favor, leia [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes do nosso códig
 
 ## Authors
 
-* **Renan Oliveira** - *Founder | Líder de projeto* - [Github](https://github.com/ren4ndev) [LinkedIn](https://www.linkedin.com/in/renancoliveira/)
+* **Renan Oliveira** - *Founder | Líder de projeto* - [Github](https://github.com/ren4ndev) | [LinkedIn](https://www.linkedin.com/in/renancoliveira/)
 
 Veja também a lista de [contribuidores](https://github.com/ren4ndev/backend-builder/contributors) que participaram nesse projeto.
 
